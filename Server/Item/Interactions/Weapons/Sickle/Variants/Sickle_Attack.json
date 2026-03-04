@@ -1,0 +1,8 @@
+{
+  "Type": "Chaining",
+  "ChainingAllowance": 3,
+  "Next": [
+    "Sickle_Swing_Left",
+    "Sickle_Swing_Right"
+  ]
+}
